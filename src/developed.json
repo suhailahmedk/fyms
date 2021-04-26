@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "title": "Rice Crop diseas detection",
+        "year": "2019",
+		"category": "Deap Learning",
+        "batch": "fall2017",
+        "Supervisor": "Dr. Ghulam Mujtaba",
+        "abstract": ""
+    },
+    {
+        "id": 2,
+        "title": "Home automation",
+        "year": "2018",
+		"category": "IoT",
+        "batch": "spring2018",
+        "Supervisor": "Dr. Ghulam Mujtaba",
+        "abstract": ""
+    },
+    {
+        "id": 3,
+        "title": "Smart Survaliance System",
+        "year": "2017",
+		"category": "Deap Learning",
+        "batch": "fall2018",
+        "Supervisor": "Dr. Asif Rajput",
+        "abstract": ""
+    },
+    {
+        "id": 4,
+        "title": "Brain Tumor Detection",
+        "year": "2019",
+		"category": "Deap Learning",
+        "batch": "fall2019",
+        "Supervisor": "Dr. Sajid",
+        "abstract": ""
+    },
+    {
+        "id": 5,
+        "title": "EasyBazar.com",
+        "year": "2017",
+		"category": "web application",
+        "batch": "fall2017",
+        "Supervisor": "Khalid Hussain",
+        "abstract": ""
+    }
+]
