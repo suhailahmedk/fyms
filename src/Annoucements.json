@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "subject": "Reminder: Submission Deadline for Concept Notes",
+        "Discription": "You are all reminded to submit your FYP abstract on time to avoid penalties.",
+        "Coordinator": "Dr Asif Rajput",
+        "time": "2017-03-03 14:02:34"   
+    },
+    {
+        "id": 2,
+        "subject": "Progress Report",
+        "Discription": "Dear Students you are required to submit your progress reports in hard copy and soft copy before 5th Friday 2017 at 1600 hours. Upload your soft copies in here and submit hard copies at the coordinator's office",
+        "Coordinator": "Dr Asif Rajput",
+        "time": "2017-03-05 06:44:10"
+    },
+    {
+        "id": 3,
+        "subject": "Final Presentation",
+        "Discription": "Grand finale in June",
+        "Coordinator": "Dr Asif Rajput",
+        "time": "2017-06-29 07:08:31"
+    },
+    {
+        "id": 4,
+        "subject": "Proposal Submission Deadline",
+        "Discription": "You are all reminded to submit your FYP Proposal on time to avoid penalties ",
+        "Coordinator": "Dr Asif Rajput",
+        "time": "2017-06-29 07:08:31"
+    }
+]
